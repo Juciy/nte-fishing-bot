@@ -7,7 +7,9 @@
 - `fish_bot.py`：主要自動釣魚邏輯
 - `nte_fish_gui.py`：圖形介面啟動器
 - `vision_debugger.py`：視覺辨識調參工具
-- `NTE-Fishing-Bot.exe`：已打包的單一執行檔
+- `CMD_OPTIONS.md`：CMD / PowerShell 啟動參數說明
+
+已打包的 `NTE-Fishing-Bot.exe` 請到本專案的 GitHub Releases 下載。
 
 ## 使用要求
 
